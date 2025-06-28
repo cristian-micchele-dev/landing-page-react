@@ -15,7 +15,7 @@ Este proyecto es una **Landing Page** desarrollada con **React**, **Vite** y **T
 
 1. Clona el repositorio:
    ```sh
-   git clone <url-del-repo>
+   git clone <https://github.com/cristian-micchele-dev/landing-page-react>
    cd Landing-page-react
    ```
 
@@ -63,7 +63,7 @@ Landing-page-react/
 
 ## Créditos
 
-Desarrollado por [Tu Nombre].
+Desarrollado por [Cristian Micchele].
 
 ---
 ¡Listo para desplegar tu landing page moderna!
